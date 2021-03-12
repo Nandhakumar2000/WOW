@@ -1,0 +1,6 @@
+module Pods_WaterOnWay_RN_WaterOnWay_RNTests {
+  umbrella header "Pods-WaterOnWay_RN-WaterOnWay_RNTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
